@@ -30,6 +30,9 @@ The models are evaluated based on accuracy metrics and training times. Accuracy 
 
 The project concludes that Decision Tree and XGBoost are standout choices for accurate trip duration prediction. Decision Tree demonstrates efficient execution and high accuracy, while XGBoost offers a balance of accuracy and training time. The models provide insights into travel patterns and contribute to optimizing transportation logistics.
 
+#### This project was done as a part of a simulated summer internship with capabl.
+
+
 ## Getting Started
 
 To run this project locally, follow these steps:
@@ -52,4 +55,7 @@ This project requires the following dependencies:
 Install the dependencies using the following command:
 
 ```bash
+
 pip install pandas scikit-learn matplotlib seaborn xgboost
+
+
