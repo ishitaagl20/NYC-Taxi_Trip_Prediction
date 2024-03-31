@@ -2,6 +2,9 @@
 
 Predicting taxi trip durations using machine learning algorithms on the NYC Taxi Trip dataset.
 
+# Certificate
+![image](https://github.com/ishitaagl20/NYC-Taxi_Trip_Prediction/assets/90683051/00178bfc-9797-4081-b788-50a272ae29cd)
+
 ## Introduction
 
 This project focuses on predicting the duration of taxi trips in New York City using machine learning techniques. The analysis involves exploring the NYC Taxi Trip dataset, preprocessing the data, building predictive models, and evaluating their performance. The goal is to develop accurate prediction models that can contribute to optimizing transportation logistics and enhancing passenger experiences.
